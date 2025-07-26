@@ -34,7 +34,7 @@ This project uses a Python script to download the required pre-trained model.
 
 The system requires a collection of PDFs and a JSON file defining the persona and their task.
 
-1.  Place all your PDF documents (e.g., `Breakfast Ideas.pdf`, `Dinner Ideas - Mains_1.pdf`) inside the `./input` folder.
+1.  Place all your PDF documents (e.g., `Breakfast Ideas.pdf`, `Dinner Ideas - Mains_1.pdf` (Collection 3)) inside the `./input` folder.
 
 2.  Create a file named **`challenge1b_input.json`** inside the `./input` folder with the following structure:
 
