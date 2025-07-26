@@ -67,3 +67,9 @@ docker run --rm -v "$(pwd)/input":/app/input -v "$(pwd)/output":/app/output --ne
   * **PyMuPDF**: For fast and reliable PDF text extraction.
   * **scikit-learn**: For efficient cosine similarity calculations.
   * **numpy**: For numerical operations on vector embeddings.
+
+## **Authors**
+
+  * Mayank Chauhan
+  * Adithya Sankar Menon
+  * Piyush Maurya
